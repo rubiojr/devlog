@@ -40,6 +40,7 @@ func main() {
 
 	obj := conn.Object("net.reactivated.Fprint", "/net/reactivated/Fprint/Device/0")
 
+	fmt.Println("Scan your finger please...")
 	verify(conn, obj, 0)
 }
 
