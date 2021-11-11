@@ -1,2 +1,2 @@
 # devlog
-⚠️: 🔥🔥🔥 flammable material 🔥🔥🔥
+🔥🔥🔥 flammable material 🔥🔥🔥
